@@ -157,19 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="thisisdara--mhr-cfw-go"></div>
+<div id="2dust--v2rayn"></div>
 
-### ThisIsDara--mhr-cfw-go
+### 2dust--v2rayn
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+🔗 [source](https://github.com/2dust/v2rayn) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayn/releases/tag/7.21.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go-darwin-amd64` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-darwin-amd64) |
-| `mhr-cfw-go-darwin-arm64` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-darwin-arm64) |
-| `mhr-cfw-go-linux-amd64` | 6.4 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux-amd64) |
-| `mhr-cfw-go-linux-arm64` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux-arm64) |
-| `mhr-cfw-go-windows-386.exe` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-386.exe) |
-| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
-| `mhr-cfw-go-windows-arm64.exe` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-arm64.exe) |
+| `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/2dust/v2rayn/v2rayN-linux-rhel-riscv64.rpm) |
 <!-- RELEASES_END -->
