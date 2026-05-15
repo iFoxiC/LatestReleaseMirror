@@ -157,13 +157,22 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayn"></div>
+<div id="jamiepine--voicebox"></div>
 
-### 2dust--v2rayn
+### jamiepine--voicebox
 
-🔗 [source](https://github.com/2dust/v2rayn) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayn/releases/tag/7.21.3)
+🔗 [source](https://github.com/jamiepine/voicebox) – [<code><small>v0.5.0</small></code>](https://github.com/jamiepine/voicebox/releases/tag/v0.5.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/2dust/v2rayn/v2rayN-linux-rhel-riscv64.rpm) |
+| `Voicebox_0.5.0_x64-setup.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/Voicebox_0.5.0_x64-setup.exe.sig) |
+| `Voicebox_0.5.0_x64-setup.nsis.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/Voicebox_0.5.0_x64-setup.nsis.zip.sig) |
+| `Voicebox_0.5.0_x64_en-US.msi.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/Voicebox_0.5.0_x64_en-US.msi.sig) |
+| `Voicebox_0.5.0_x64_en-US.msi.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/Voicebox_0.5.0_x64_en-US.msi.zip.sig) |
+| `Voicebox_aarch64.app.tar.gz.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/Voicebox_aarch64.app.tar.gz.sig) |
+| `Voicebox_x64.app.tar.gz.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/Voicebox_x64.app.tar.gz.sig) |
+| `cuda-libs-cu128-v1.tar.gz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/cuda-libs-cu128-v1.tar.gz.sha256) |
+| `cuda-libs.json` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/cuda-libs.json) |
+| `latest.json` | 13 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/latest.json) |
+| `voicebox-server-cuda.tar.gz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iFoxiC/LatestReleaseMirror/main/releases/jamiepine/voicebox/voicebox-server-cuda.tar.gz.sha256) |
 <!-- RELEASES_END -->
